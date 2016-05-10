@@ -1,0 +1,48 @@
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\bin\Debug\IssueTracker.exe.config
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\bin\Debug\IssueTracker.exe
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\bin\Debug\IssueTracker.pdb
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\obj\Debug\IssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\obj\Debug\IssueTracker.Properties.Resources.resources
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\obj\Debug\IssueTracker.csproj.GenerateResource.Cache
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\obj\Debug\IssueTracker.exe
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\obj\Debug\IssueTracker.pdb
+C:\Users\jalmeids\AppData\Local\Temporary Projects\IssueTracker\obj\Debug\IssueTracker.frmIssueTracker.resources
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe.config
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\obj\Debug\IssueTracker.exe
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\obj\Debug\IssueTracker.pdb
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\bin\Debug\IssueTracker.pdb
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\obj\Debug\IssueTracker.frmIssueTracker.resources
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\obj\Debug\IssueTracker.Properties.Resources.resources
+C:\Users\jalmeids\Desktop\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe.config
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\obj\Debug\IssueTracker.exe
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\obj\Debug\IssueTracker.pdb
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\bin\Debug\IssueTracker.pdb
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\obj\Debug\IssueTracker.frmIssueTracker.resources
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\obj\Debug\IssueTracker.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csproj.GenerateResource.Cache
+C:\Users\lucas\Documents\Visual Studio 2013\Projects\IssueTracker\IssueTracker\obj\Debug\IssueTracker.frmLoginScreen.resources
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe.config
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.exe
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.pdb
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\bin\Debug\IssueTracker.pdb
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.frmIssueTracker.resources
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.frmLoginScreen.resources
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.Properties.Resources.resources
+C:\Users\jalmeids\Desktop\IssueTracker (newest3)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csproj.GenerateResource.Cache
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe.config
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.exe
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.pdb
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\bin\Debug\IssueTracker.exe
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\bin\Debug\IssueTracker.pdb
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.frmIssueTracker.resources
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.frmLoginScreen.resources
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.Properties.Resources.resources
+C:\Users\lucas\Desktop\IssueTracker (newest3Revised)\IssueTracker (newest3Revised)\IssueTracker\IssueTracker\obj\Debug\IssueTracker.csproj.GenerateResource.Cache
